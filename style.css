@@ -1,0 +1,13 @@
+h1{
+    font-family: Comic Sans MS, Comic Sans, cursive;
+}
+form{
+    width: 500px;
+}
+input{
+    width: 500px;
+    height: 30px;
+}
+::placeholder{
+    font-size: 20px;
+}
