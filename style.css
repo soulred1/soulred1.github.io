@@ -8,6 +8,12 @@ input{
     width: 500px;
     height: 30px;
 }
+a.text:active, 
+a.text:hover, 
+a.text {
+  text-decoration: none;
+  color: #000;
+}
 ::placeholder{
     font-size: 20px;
 }
